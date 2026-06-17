@@ -8,9 +8,11 @@ A beginner cybersecurity project built using Python.
 - Port Scanner
 - File Integrity Checker
 - Caesar Cipher
-- Checks password length
-- Checks uppercase and lowercase letters
-- Checks numbers and special characters
+- Network Information Tool
+- URL Security Checker
+- Password Generator
+
+  
 
 ## Author
 Harshii Cyberit
