@@ -6,6 +6,7 @@ A beginner cybersecurity project built using Python.
 - Password Strength Checker
 - SHA-256 Hash Generator
 - Port Scanner
+- File Integrity Checker
 - Checks password length
 - Checks uppercase and lowercase letters
 - Checks numbers and special characters
