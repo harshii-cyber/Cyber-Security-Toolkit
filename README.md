@@ -20,7 +20,14 @@ A beginner cybersecurity project built using Python.
 - Hashlib
 - Networking
 - Cybersecurity Concepts
+
+  
+  ## Run Project
+1. Install Python
+2. Clone this repository
+3. Run any tool using:
+python filename.py
   
 
 ## Author
-Harshika-Cyber (GitHub: harshii-cyber)
+Harshika-Cyber (GitHub Username: harshii-cyber)
