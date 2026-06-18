@@ -12,6 +12,12 @@ A beginner cybersecurity project built using Python.
 - URL Security Checker
 - Password Generator
 
+## Technologies Used
+- Python
+- Socket Programming
+- Hashlib
+- Networking
+- Cybersecurity Concepts
   
 
 ## Author
