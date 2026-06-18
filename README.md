@@ -15,4 +15,4 @@ A beginner cybersecurity project built using Python.
   
 
 ## Author
-Harshika-Cyber
+Harshika-Cyber (GitHub: harshii-cyber)
